@@ -3,3 +3,5 @@
 ## Gravando mudanças no repositório
 
 teste novo
+
+stage
